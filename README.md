@@ -7,7 +7,7 @@ This extractor helps people to extract Contact and SMS information from Blackber
 
 Share your feedback and questions on my blog, I'm listening :-) http://prasanta-paul.blogspot.com/2011/11/blackberry-backup-parser.html
 #License
-Copyright 2015 Prasanta Paul
+Copyright 2015 Prasanta Paul (http://prasanta-paul.blogspot.in/)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
